@@ -5,11 +5,13 @@ Installing LearnPlus, the LMS for labfours assessment.
 
 To install LearnPlus, follow these steps:
 
-Linux and macOS:
+Linux, Windows and macOS:
 
 git clone https://github.com/qudusyusuf720/LMS_LabFour.git
 
-Then run the index.html file to view the LMS UI
+Then run the index.html file to view the LMS Frontend UI
+
+Their is need for a backend for user authentication and information transfer to the frontend.
 
 Contact
 If you want to contact me you can reach me at [Email: qudusyusuf720@gmail.com).
